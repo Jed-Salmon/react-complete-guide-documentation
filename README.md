@@ -12,5 +12,9 @@
 - Forms & User Input
 - Redux
 - Advanced Redux
+- React Router
+- Deploying React Apps
+- Authentication
+- NextJS
 
 *FYI - I split course chapters into how I best saw fit, i.e they are not listed in the same format as the course. Later chapters involved more note taking as I took this course after already knowing the basics of React.js. For this reason I simply followed through the starting chapters without making as many comments as I do in the later stages.*
