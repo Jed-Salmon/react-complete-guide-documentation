@@ -17,4 +17,4 @@
 - Authentication
 - NextJS
 
-*FYI - I split course chapters into how I best saw fit, i.e they are not listed in the same format as the course. Later chapters involved more note taking as I took this course after already knowing the basics of React.js. For this reason I simply followed through the starting chapters without making as many comments as I do in the later stages.*
+*FYI - I split course chapters into how I best saw fit, i.e they are not listed in the same format as the course. I condensed the starting chapters into the first project as I already knowing the basics of React.
